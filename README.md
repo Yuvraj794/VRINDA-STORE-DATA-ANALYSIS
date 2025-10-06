@@ -45,5 +45,5 @@ The analysis shows that focusing marketing efforts on **adult women in top state
  Author
 **Yuvraj Kumawat**
 📚 B.Sc. (Hons) Zoology | University of Delhi
-💻 Passionate about data analytics, digital marketing & visualization
+💻 Passionate about data analytics & visualization
 
